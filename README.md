@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Timmy7416
-- 👀 I’m interested in to understand and get more insights on programming language. 
-- 🌱 I’m currently learning Phython
+-  Hello there, I’m @Timmy7416
+-  I’m interested in to understand and get more insights on programming language. 
+-  I’m currently learning Phython
 
 
 <!---
